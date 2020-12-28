@@ -1,2 +1,2 @@
 # curricula-docker
-Docker image for curricula
+Docker image for curricula github workflow.
